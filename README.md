@@ -20,3 +20,7 @@ Matches.csv
 ### Credits
 
 Credit goes to Codezilla youtube channel for teaching me Web Scraping topic
+
+### Time taken to finish this project
+
+This project took me 2 hours of working
