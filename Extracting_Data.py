@@ -5,7 +5,7 @@ import csv
 from datetime import datetime
 
 # Page variable and date input
-
+print("This output shows The Egyptian League football matches ")
 date = input("Please enter a date in the following format MM/DD/YYYY: ")
 Format = datetime.strptime(date, '%m/%d/%Y')
 
