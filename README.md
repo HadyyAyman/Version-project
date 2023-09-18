@@ -24,3 +24,8 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 OS: Windows 10 pro
 Hardware: 8Gb Ram , Intel dual core duo processor 3.00 Ghz , GUI: Intel Iris chip
+
+### Known Bugs
+
+Be Careful for the html code of the website changes frequently so you don't need to change the code
+of python but the html tags within
