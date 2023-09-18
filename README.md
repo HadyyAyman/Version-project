@@ -1,17 +1,22 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+> **Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+
+Project was created 3/5/2023 , README was created 9/19/2023
 
 ### Project Title
-Replace the Project Title
+
+YallaKora Web Scraper
 
 ### Description
-Describe what your project is about and what it does
+
+This Project is used to extract football matches data from yallakora website for the egyptian league
 
 ### Files used
-Include the files used
+
+Extract_Data.py
+Matches.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+Credit goes to Codezilla youtube channel for teaching me Web Scraping topic
